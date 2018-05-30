@@ -38,14 +38,14 @@ c8y deploy:app devicemanagement
 4.	Finally you can remove plugins as your wish.
 
 ### To remove default plugins from Cumulocity Core apps through UI interface you can do:
-1.Go to Administration application -> Own applications
-2.Click on add new
-3.Select clone existing application
-4.Select administration and fill the form as shown on image.
-5.Click clone
-6.When ready click done.
-7.Go to Administration application -> Own applications
-8.Select any one of the Cumulocity core application you need to remove some plugins.
-9.Then select plugins. It shows the entire  list of plugins.
-10.Finally you can remove plugins as your wish.
+1. Go to Administration application -> Own applications
+2. Click on add new
+3. Select clone existing application
+4. Select administration and fill the form as shown on image.
+5. Click clone
+6. When ready click done.
+7. Go to Administration application -> Own applications
+8. Select any one of the Cumulocity core application you need to remove some plugins.
+9. Then select plugins. It shows the entire  list of plugins.
+10. Finally you can remove plugins as your wish.
 
