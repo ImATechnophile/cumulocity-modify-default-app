@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_remoteAccess/remoteAccessEndpointsList/remoteAccessEndpointsList.html:19
+#: core_remoteAccess/remoteAccessEndpointsList/remoteAccessEndpointsList.html:6
+msgid "Add endpoint"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:106
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:136
+msgid "Cancel"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:105
+msgid "Change"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointsList/remoteAccessEndpointsList.html:18
+msgid "Click below to add your first one."
+msgstr ""
+
+#: core_remoteAccess/remoteAccessUI.provider.js:173
+msgid "Confirm delete?"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.html:60
+msgid "Connect"
+msgstr ""
+
+#: core_remoteAccess/remoteAccess.service.js:102
+msgid "Connected to: {{name}}"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessUI.provider.js:175
+msgid "Delete"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:9
+msgid "Description"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessUI.provider.js:174
+msgid "Do you really want to remove endpoint \"{{config.name}}\" from device \"{{device.name}}\"?"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.html:14
+msgid "Edit"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessUI.provider.js:180
+msgid "Endpoint removed."
+msgstr ""
+
+#: core_remoteAccess/remoteAccessUI.provider.js:144
+#: core_remoteAccess/remoteAccessUI.provider.js:165
+msgid "Endpoint saved."
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:44
+msgid "Enter IP, hostname or select device"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:18
+msgid "Enter description"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.html:42
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:29
+msgid "Host"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:30
+msgid "IP address or hostname in the local network"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.component.js:23
+msgid "Local"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:81
+msgid "Password"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:54
+msgid "Please provide valid IP address or hostname."
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.html:46
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:61
+msgid "Port"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.html:52
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:115
+msgid "Protocol"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessUI.provider.js:19
+msgid "Remote access"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:2
+msgid "Remote access endpoint"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.html:20
+msgid "Remove"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:141
+msgid "Save"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointCard/remoteAccessEndpointCard.html:61
+msgid "Show"
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointsList/remoteAccessEndpointsList.html:17
+msgid "There are no endpoints defined."
+msgstr ""
+
+#: core_remoteAccess/remoteAccessEndpointModal/remoteAccessEndpointModal.html:70
+msgid "e.g. 9000"
+msgstr ""

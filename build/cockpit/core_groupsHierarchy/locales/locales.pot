@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_groupsHierarchy/views/groupsList.html:29
+#: core_groupsHierarchy/views/groupsList.html:45
+msgid "Add group"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:80
+msgid "Add your first group or assign devices using the buttons on the toolbar."
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupDeviceAssignmentCtrl.js:35
+#: core_groupsHierarchy/views/groupDevices.html:5
+#: core_groupsHierarchy/views/groupsList.html:63
+msgid "Assign devices"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDeviceAssignment.html:9
+msgid "Assign {{selectedDevices.length}} device"
+msgid_plural "Assign {{selectedDevices.length}} devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_groupsHierarchy/views/groupDetails.html:64
+#: core_groupsHierarchy/views/groupDeviceAssignment.html:8
+msgid "Cancel"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupCreateAndAssign.html:22
+msgid "Close"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupDevicesCtrl.js:35
+msgid "Confirm unassignment?"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupCreateAndAssignCtrl.js:95
+msgid "Create group"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupCreateAndAssign.html:25
+msgid "Create group with one device"
+msgid_plural "Create group with {{selectedDevices.length}} devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_groupsHierarchy/views/groupsList.html:227
+msgid "Critical alarms"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:110
+#: core_groupsHierarchy/views/groupsList.html:191
+#: core_groupsHierarchy/views/groupsList.html:193
+#: core_groupsHierarchy/views/groupsList.html:290
+#: core_groupsHierarchy/views/groupsList.html:292
+msgid "Delete"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:108
+msgid "Delete group"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:177
+msgid "Device management"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupDevicesCtrl.js:36
+msgid "Do you really want to unassign device \"{{name}}\"?"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDetails.html:56
+msgid "Edit"
+msgstr ""
+
+#: core_groupsHierarchy/groupsHierarchyUi.provider.js:128
+msgid "Group"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupDetailsCtrl.js:65
+msgid "Group \"{{name}}\" saved successfully!"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:39
+msgid "Group name"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupCreateAndAssignCtrl.js:55
+#: core_groupsHierarchy/controllers/groupsListCtrl.js:181
+msgid "Group {{name}} has been created!"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupsListCtrl.js:142
+#: core_groupsHierarchy/groupsHierarchyUi.provider.js:55
+#: core_groupsHierarchy/index.js:7
+msgid "Groups"
+msgstr ""
+
+#: core_groupsHierarchy/groupsHierarchyUi.provider.js:169
+msgid "Info"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDetails.html:23
+msgid "Last update"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:233
+msgid "Major alarms"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:239
+msgid "Minor alarms"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDevices.html:24
+#: core_groupsHierarchy/views/groupDevices.html:60
+#: core_groupsHierarchy/views/groupsList.html:216
+#: core_groupsHierarchy/views/groupsList.html:313
+msgid "Model"
+msgstr ""
+
+#: core_groupsHierarchy/groupsHierarchyUi.provider.js:202
+msgid "New group"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupCreateAndAssign.html:13
+msgid "New group name"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDevices.html:11
+msgid "No devices assigned to group."
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:79
+msgid "No items to display."
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:140
+msgid "Number of children"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:176
+msgid "Open in Device management"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:163
+#: core_groupsHierarchy/views/groupsList.html:269
+#: core_groupsHierarchy/views/groupsList.html:97
+msgid "Options"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDetails.html:9
+msgid "Remove group"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDevices.html:27
+#: core_groupsHierarchy/views/groupDevices.html:63
+#: core_groupsHierarchy/views/groupsList.html:221
+#: core_groupsHierarchy/views/groupsList.html:318
+msgid "S/N"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDetails.html:65
+msgid "Save changes"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/assetSearchCtrl.js:36
+#: core_groupsHierarchy/groupsHierarchyUi.provider.js:214
+msgid "Search all"
+msgstr ""
+
+#: core_groupsHierarchy/groupsHierarchyUi.provider.js:150
+msgid "Search controller"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupsListCtrl.js:148
+msgid "Showing 1 item"
+msgid_plural "Showing {{$count}} items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_groupsHierarchy/groupsHierarchyUi.provider.js:141
+msgid "Sub-assets"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/groupDevicesCtrl.js:37
+#: core_groupsHierarchy/views/groupsList.html:184
+#: core_groupsHierarchy/views/groupsList.html:186
+#: core_groupsHierarchy/views/groupsList.html:284
+#: core_groupsHierarchy/views/groupsList.html:286
+msgid "Unassign"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDevices.html:47
+msgid "Unassign device"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDevices.html:70
+msgid "Unassign item"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupsList.html:245
+msgid "Warning alarms"
+msgstr ""
+
+#: core_groupsHierarchy/views/groupDetails.html:48
+msgid "add some notes"
+msgstr ""
+
+#: core_groupsHierarchy/controllers/assetSearchCtrl.js:37
+msgid "searching \"{{expression}}\""
+msgstr ""

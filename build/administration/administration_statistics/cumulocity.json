@@ -1,0 +1,1 @@
+{"name":"Usage statistics","ngModules":["c8y.parts.statistics"],"category":"Administration","description":"Display statistics of consumed resources.","js":["main.js"],"appsInclude":["administration"],"version":"9.3.0","compatibility":{"app":"administration","contextPath":"statistics","rootContextPath":"administration/statistics"},"contextPath":"administration_statistics"}

@@ -1,0 +1,2 @@
+/* devicemanagement_deviceManagement 9.3.0 2018-03-26T16:25:07+00:00 796b68a031b1+ (release/9.3.0) tip */
+!function(){"use strict";function e(e){e.configDefaultView()}e.$inject=["c8yGenericUiConfigProvider"],angular.module("c8y.deviceManagement",["c8y.genericUi"]).config(e)}(),function(){"use strict";function e(e){}angular.module("c8y.deviceManagement").run(["$templateCache",e])}();

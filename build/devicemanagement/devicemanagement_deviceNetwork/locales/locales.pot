@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_deviceNetwork/views/network.html:20
+msgid "APN"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:189
+msgid "Address range"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:41
+msgid "Auth type"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/controllers/network.js:109
+msgid "Configure DHCP settings"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/controllers/network.js:93
+msgid "Configure LAN settings"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/controllers/network.js:74
+msgid "Configure WAN settings"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:166
+msgid "DHCP"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:223
+msgid "DNS"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:236
+msgid "DNS 2"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:182
+#: devicemanagement_deviceNetwork/views/network.html:91
+msgid "Disabled"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:248
+msgid "Domain name"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:181
+#: devicemanagement_deviceNetwork/views/network.html:90
+msgid "Enabled"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:126
+msgid "IP Address"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:76
+msgid "LAN"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:112
+msgid "MAC address"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:65
+msgid "Messaging provider must be configured to send WAN settings to device via SMS"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:100
+msgid "Name"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/index.js:12
+msgid "Network"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:34
+msgid "Password"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:12
+msgid "SIM status"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:153
+#: devicemanagement_deviceNetwork/views/network.html:257
+#: devicemanagement_deviceNetwork/views/network.html:52
+msgid "Save changes"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:61
+msgid "Save changes (SMS)"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/controllers/network.js:120
+msgid "Sent operation to apply DHCP settings."
+msgstr ""
+
+#: devicemanagement_deviceNetwork/controllers/network.js:102
+msgid "Sent operation to apply LAN settings."
+msgstr ""
+
+#: devicemanagement_deviceNetwork/controllers/network.js:86
+msgid "Sent operation to apply WAN settings."
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:140
+msgid "Subnet mask"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:27
+msgid "User"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:6
+msgid "WAN"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:118
+msgid "e.g. 12:AB:34:CD:56:EF"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:134
+#: devicemanagement_deviceNetwork/views/network.html:201
+#: devicemanagement_deviceNetwork/views/network.html:231
+msgid "e.g. 192.168.0.1"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:215
+msgid "e.g. 192.168.0.10"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:244
+msgid "e.g. 192.168.0.2"
+msgstr ""
+
+#: devicemanagement_deviceNetwork/views/network.html:147
+msgid "e.g. 255.255.255.0"
+msgstr ""

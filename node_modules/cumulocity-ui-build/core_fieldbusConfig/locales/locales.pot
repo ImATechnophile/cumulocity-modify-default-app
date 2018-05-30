@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_fieldbusConfig/fieldbus-config.config.js:16
+msgid "Device database"
+msgstr ""
+
+#: core_fieldbusConfig/fieldbus-config.config.js:15
+msgid "Device types"
+msgstr ""

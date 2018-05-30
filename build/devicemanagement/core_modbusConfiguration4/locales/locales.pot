@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:193
+#: core_modbusConfiguration4/fieldbus-device-list.html:283
+msgid "Add"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:215
+msgid "Add OPCUA device"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:204
+msgid "Add {{vm.mode}} device"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:196
+#: core_modbusConfiguration4/fieldbus-device-list.html:286
+msgid "Adding"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:150
+#: core_modbusConfiguration4/fieldbus-device-list.html:23
+#: core_modbusConfiguration4/fieldbus-device-list.html:61
+msgid "Address"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:60
+msgid "Addresses from 248 up to 254 are not allowed."
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:139
+#: core_modbusConfiguration4/fieldbus-config.html:19
+msgid "Baud rate"
+msgstr ""
+
+#: core_modbusConfiguration4/modbus-configuration-4.config.js:25
+msgid "CAN Bus"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:123
+msgid "CAN Bus communication"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:179
+#: core_modbusConfiguration4/fieldbus-device-list.html:288
+msgid "Cancel"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:231
+msgid "Confirm delete?"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:44
+msgid "Data bits"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:234
+msgid "Delete"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:240
+msgid "Device deleted!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:17
+#: core_modbusConfiguration4/fieldbus-device-list.html:304
+#: core_modbusConfiguration4/fieldbus-device-list.html:49
+msgid "Device type"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:246
+#: core_modbusConfiguration4/fieldbus-device-list.html:303
+msgid "Directory path"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:232
+msgid "Do you really want to remove device \"{{name}}\" with id {{id}}?"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.component.js:154
+msgid "Failed to add new child device."
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:171
+#: core_modbusConfiguration4/fieldbus-device-list.html:26
+#: core_modbusConfiguration4/fieldbus-device-list.html:70
+msgid "IP address"
+msgstr ""
+
+#: core_modbusConfiguration4/modbus-configuration-4.config.js:18
+msgid "Modbus"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:117
+msgid "Modbus communication"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:108
+#: core_modbusConfiguration4/fieldbus-device-list.html:14
+#: core_modbusConfiguration4/fieldbus-device-list.html:232
+#: core_modbusConfiguration4/fieldbus-device-list.html:302
+#: core_modbusConfiguration4/fieldbus-device-list.html:40
+msgid "Name"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.component.js:149
+msgid "New child device has been added!"
+msgstr ""
+
+#: core_modbusConfiguration4/modbus-configuration-4.config.js:32
+msgid "OPCUA"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:251
+msgid "OPCUA communication"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:62
+msgid "Only natural numbers allowed!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:260
+#: core_modbusConfiguration4/fieldbus-config.component.js:275
+msgid "Operation to apply settings has been sent!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:64
+msgid "Parity"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:279
+msgid "Password"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:190
+#: core_modbusConfiguration4/fieldbus-config.html:321
+msgid "Polling rate"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:61
+msgid "Polling rate should be equal to or smaller than transmit rate!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:319
+#: core_modbusConfiguration4/fieldbus-device-list.html:81
+msgid "Remove"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:100
+#: core_modbusConfiguration4/fieldbus-config.html:213
+#: core_modbusConfiguration4/fieldbus-config.html:345
+msgid "Save changes"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-device-list.html:127
+msgid "Select a device type…"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:10
+msgid "Serial communication"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:305
+msgid "Set CAN Bus configuration"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:297
+msgid "Set modbus configuration"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:268
+msgid "Set serial configuration"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:84
+msgid "Stop bits"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:63
+msgid "The IP address format is invalid!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:64
+msgid "The URL format is invalid! The only supported protocols are http, https and opc.tcp."
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:59
+msgid "These addresses are already in use!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:58
+msgid "This address is already in use!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.component.js:57
+msgid "This field is required!"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:163
+#: core_modbusConfiguration4/fieldbus-config.html:295
+msgid "Transmit rate"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:259
+msgid "URL"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:270
+msgid "Username"
+msgstr ""
+
+#: core_modbusConfiguration4/fieldbus-config.html:177
+#: core_modbusConfiguration4/fieldbus-config.html:204
+#: core_modbusConfiguration4/fieldbus-config.html:308
+#: core_modbusConfiguration4/fieldbus-config.html:334
+msgid "seconds"
+msgstr ""

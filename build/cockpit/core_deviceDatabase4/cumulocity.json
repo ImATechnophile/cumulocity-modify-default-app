@@ -1,0 +1,1 @@
+{"name":"Device type database","description":"Allows for managing device types database","category":"Device","ngModules":["c8y.deviceDatabase4"],"js":["main.js"],"css":["style.css"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"deviceDatabase4","rootContextPath":"core/deviceDatabase4"},"contextPath":"core_deviceDatabase4"}

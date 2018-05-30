@@ -1,0 +1,24 @@
+{
+  "name": "Internet_of_parking icon",
+  "comment": "Display Internet_of_parking icon in all the core apps",
+  "applications": [
+    {
+      "contextPath": "administration",
+      "addImports": [
+        "Internet_of_parking/parking-pi-appIcon"
+      ]
+    },
+    {
+      "contextPath": "devicemanagement",
+      "addImports": [
+        "Internet_of_parking/parking-pi-appIcon"
+      ]
+    },
+    {
+      "contextPath": "cockpit",
+      "addImports": [ 
+        "Internet_of_parking/parking-pi-appIcon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"Device details - software","ngModules":["c8y.deviceDetailSoftware"],"category":"Device","description":"Shows detailed software information for devices.","js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"deviceDetailSoftware","rootContextPath":"core/deviceDetailSoftware"},"contextPath":"core_deviceDetailSoftware"}

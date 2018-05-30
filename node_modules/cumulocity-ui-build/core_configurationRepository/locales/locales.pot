@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_configurationRepository/list.controller.js:43
+msgid "1 snapshot"
+msgid_plural "{{qty}} snapshots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_configurationRepository/views/list.html:14
+#: core_configurationRepository/views/list.html:66
+msgid "Add configuration snapshot"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:85
+msgid "Add your first configuration snapshot using the button on the toolbar."
+msgstr ""
+
+#: core_configurationRepository/index.js:10
+msgid "Configuration repository"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:173
+#: core_configurationRepository/views/list.html:60
+msgid "Configuration snapshot file"
+msgstr ""
+
+#: core_configurationRepository/configurationRepository.service.js:55
+msgid "Configuration snapshot is successfully added."
+msgstr ""
+
+#: core_configurationRepository/list.controller.js:42
+msgid "Configuration snapshots repository"
+msgstr ""
+
+#: core_configurationRepository/list.controller.js:115
+msgid "Configuration successfully removed."
+msgstr ""
+
+#: core_configurationRepository/list.controller.js:106
+msgid "Confirm delete?"
+msgstr ""
+
+#: core_configurationRepository/list.controller.js:109
+#: core_configurationRepository/views/list.html:113
+#: core_configurationRepository/views/list.html:184
+msgid "Delete"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:142
+#: core_configurationRepository/views/list.html:34
+msgid "Description"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:153
+#: core_configurationRepository/views/list.html:44
+msgid "Device type"
+msgstr ""
+
+#: core_configurationRepository/list.controller.js:107
+msgid "Do you really want to remove \"{{name}}\" configuration?"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:95
+msgid "Expand"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:86
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/device-management/#configsnap\">User Guide</a>."
+msgstr ""
+
+#: core_configurationRepository/index.js:9
+msgid "Management"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:130
+#: core_configurationRepository/views/list.html:24
+msgid "Name"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:186
+msgid "Save"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:155
+#: core_configurationRepository/views/list.html:47
+msgid "The device type can be found in the device information tab of the target device."
+msgstr ""
+
+#: core_configurationRepository/views/list.html:84
+msgid "There are no configuration snapshots defined"
+msgstr ""
+
+#: core_configurationRepository/views/list.html:168
+#: core_configurationRepository/views/list.html:57
+msgid "e.g.: c8y_OBU-GT"
+msgstr ""

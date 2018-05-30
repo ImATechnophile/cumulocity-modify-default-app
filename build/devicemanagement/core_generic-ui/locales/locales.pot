@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:132
+msgid "1 operation executing"
+msgid_plural "{{$count}} operations executing"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:135
+msgid "1 operation failed"
+msgid_plural "{{$count}} operations failed"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:129
+msgid "1 operation pending"
+msgid_plural "{{$count}} operations pending"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:138
+msgid "1 operation successful"
+msgid_plural "{{$count}} operations successful"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_generic-ui/generic-ui-config.provider.js:15
+msgid "Audit config"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-modal.component.js:49
+msgid "Audit config - device {{deviceName}}"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-modal.component.js:50
+msgid "Audit current device by comparing to the selected reference device, sync checked properties to the reference device values"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-modal.html:12
+msgid "Cancel"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-diff.html:8
+msgid "Click on \"Show synced properties\" to display all properties."
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-modal.component.js:59
+msgid "Configuration Audit Synchronizatiaon"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-diff.html:69
+msgid "Current device"
+msgstr ""
+
+#: core_generic-ui/generic-ui-inventory-property-operation-popover.html:11
+msgid "Execute"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-diff.html:22
+msgid "Expand"
+msgstr ""
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:87
+msgid "Input value"
+msgstr ""
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:124
+msgid "No recent operations"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit.html:57
+msgid "No reference device selected"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-diff.html:7
+msgid "No unsynced properties found."
+msgstr ""
+
+#: core_generic-ui/generic-ui-inventory.component.js:163
+msgid "Object successfully updated."
+msgstr ""
+
+#: core_generic-ui/generic-ui-config.provider.js:57
+msgid "Objects"
+msgstr ""
+
+#: core_generic-ui/generic-ui.service.js:169
+msgid "Operation \"{{description}}\" completed successfully."
+msgstr ""
+
+#: core_generic-ui/generic-ui.service.js:170
+msgid "Operation \"{{description}}\" completed with failure."
+msgstr ""
+
+#: core_generic-ui/generic-ui.service.js:171
+msgid "Operation \"{{description}}\" completed with failure: \"{{failureReason}}\"."
+msgstr ""
+
+#: core_generic-ui/generic-ui.service.js:164
+msgid "Operation created successfully."
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-diff.html:60
+msgid "Property"
+msgstr ""
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:173
+msgid "Recent operations"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-diff.html:64
+#: core_generic-ui/config-audit/config-audit.html:7
+msgid "Reference device"
+msgstr ""
+
+#: core_generic-ui/generic-ui-inventory.html:18
+msgid "Save"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit.html:37
+msgid "Select All"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit.html:15
+msgid "Select reference device"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit.html:29
+#: core_generic-ui/config-audit/config-audit.html:32
+msgid "Show synced properties"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-diff.html:53
+msgid "Sync"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-modal.html:15
+msgid "Sync selected properties"
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit-modal.component.js:75
+msgid "Synchronization operation created."
+msgstr ""
+
+#: core_generic-ui/config-audit/config-audit.html:58
+msgid "Use the selector above to set the reference device"
+msgstr ""
+
+#: core_generic-ui/generic-ui-inventory-property.component.js:176
+msgid "View history"
+msgstr ""

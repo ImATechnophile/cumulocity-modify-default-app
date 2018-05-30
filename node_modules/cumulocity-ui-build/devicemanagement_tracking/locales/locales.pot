@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_tracking/controllers/config.js:81
+msgid "Activate geofence"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/config.js:96
+msgid "Activate motion tracking"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/config.js:76
+msgid "Changes saved successfully!"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/tracking.js:41
+msgid "Custom"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/config.js:81
+msgid "Deactivate geofence"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/config.js:97
+msgid "Deactivate motion tracking"
+msgstr ""
+
+#: devicemanagement_tracking/views/index.html:66
+msgid "Deselect all markers"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/config.js:41
+msgid "Device current position not defined"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/tracking.js:32
+msgid "Last day"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/tracking.js:29
+msgid "Last hour"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/tracking.js:38
+msgid "Last month"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/tracking.js:35
+msgid "Last week"
+msgstr ""
+
+#: devicemanagement_tracking/views/index.html:63
+msgid "Load more"
+msgstr ""
+
+#: devicemanagement_tracking/views/index.html:43
+msgid "No tracking events found"
+msgstr ""
+
+#: devicemanagement_tracking/controllers/config.js:56
+msgid "Operations created"
+msgstr ""
+
+#: devicemanagement_tracking/views/index.html:11
+msgid "Show GPS data only"
+msgstr ""
+
+#: devicemanagement_tracking/views/index.html:12
+msgid "Show GSM data only"
+msgstr ""
+
+#: devicemanagement_tracking/views/index.html:10
+msgid "Show all data"
+msgstr ""
+
+#: devicemanagement_tracking/index.js:11
+msgid "Tracking"
+msgstr ""
+
+#: devicemanagement_tracking/views/index.html:35
+msgid "Tracking events"
+msgstr ""

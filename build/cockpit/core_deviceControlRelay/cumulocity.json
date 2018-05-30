@@ -1,0 +1,1 @@
+{"name":"Device relay control","ngModules":["c8y.deviceControl.relay"],"category":"Device","description":"Device relay control","imports":[],"js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"deviceControlRelay","rootContextPath":"core/deviceControlRelay"},"contextPath":"core_deviceControlRelay"}

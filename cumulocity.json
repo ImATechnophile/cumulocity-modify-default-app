@@ -1,0 +1,14 @@
+{
+  "availability": "PRIVATE",
+  "contextPath": "Internet_of_parking",
+  "key": "Internet_of_parking-Internet_of_parkingkey",
+  "name": "Internet_of_parking",
+  "resourcesUrl": "/",
+  "type": "HOSTED",
+  "imports": [
+    "Internet_of_parking/administration_alarmMapping",
+    "Internet_of_parking/parking-pi-branding",
+    "Internet_of_parking/parking-pi-core",
+    "Internet_of_parking/parking-pi-appIcon"
+  ]
+}

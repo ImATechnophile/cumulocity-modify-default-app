@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_location/index.js:24
+msgid "Add location"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:101
+msgid "Address"
+msgstr ""
+
+#: devicemanagement_location/controllers/location.js:137
+msgid "Address could not be found!"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:79
+msgid "Altitude"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:124
+msgid "Cancel"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:10
+#: devicemanagement_location/views/index.html:8
+msgid "Center map"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:28
+msgid "Current location"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:37
+msgid "Device location may be set by the device itself, or manually in the platform"
+msgstr ""
+
+#: devicemanagement_location/index.js:53
+msgid "Displays a map with device position marker"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:33
+msgid "Edit location"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:107
+msgid "Find lat/long by address"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:55
+msgid "Latitude"
+msgstr ""
+
+#: devicemanagement_location/index.js:45
+#: devicemanagement_location/index.js:52
+msgid "Location"
+msgstr ""
+
+#: devicemanagement_location/controllers/location.js:164
+msgid "Location successfully saved!"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:67
+msgid "Longitude"
+msgstr ""
+
+#: devicemanagement_location/views/index.html:127
+msgid "Save"
+msgstr ""

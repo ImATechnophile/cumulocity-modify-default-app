@@ -1,0 +1,1 @@
+{"name":"Key Performance Indicators","ngModules":["c8y.parts.kpiAdmin"],"category":"","description":"KPI","imports":[],"js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"kpiAdmin","rootContextPath":"core/kpiAdmin"},"contextPath":"core_kpiAdmin"}

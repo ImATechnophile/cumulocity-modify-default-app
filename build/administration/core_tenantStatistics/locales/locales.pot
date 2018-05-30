@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_tenantStatistics/controllers/list.js:233
+msgid "1 tenant"
+msgid_plural "{{$count}} tenants"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:92
+msgid "API requests"
+msgstr ""
+
+#: core_tenantStatistics/views/list.html:17
+msgid "Clear"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:223
+msgid "Creation time"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:108
+msgid "Device API requests"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:186
+msgid "Devices"
+msgstr ""
+
+#: core_tenantStatistics/controllers/list.js:203
+msgid "Disabled"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:256
+msgid "Endpoint devices"
+msgstr ""
+
+#: core_tenantStatistics/views/list.html:25
+msgid "Export CSV"
+msgstr ""
+
+#: core_tenantStatistics/views/list.html:16
+msgid "Filter"
+msgstr ""
+
+#: core_tenantStatistics/views/list.html:7
+msgid "From`date`"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:31
+msgid "Id"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:259
+msgid "Leaf machines (without gateways and edges)"
+msgstr ""
+
+#: core_tenantStatistics/controllers/list.js:29
+msgid "No tenants to display."
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:189
+msgid "Number of devices, including child devices"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:167
+msgid "Number of root devices, excluding child devices"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:239
+msgid "Parent tenant"
+msgstr ""
+
+#: core_tenantStatistics/views/list.html:31
+msgid "Reload"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:164
+msgid "Root devices"
+msgstr ""
+
+#: core_tenantStatistics/views/list.html:5
+msgid "Statistic period:"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:144
+msgid "Storage"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:149
+msgid "Storage (MB)"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:125
+msgid "Storage quota"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:126
+msgid "Storage quota (MB)"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:207
+msgid "Subscribed applications"
+msgstr ""
+
+#: core_tenantStatistics/index.js:15
+msgid "Tenants"
+msgstr ""
+
+#: core_tenantStatistics/controllers/list.js:235
+msgid "Tenants usage statistics"
+msgstr ""
+
+#: core_tenantStatistics/views/list.html:12
+msgid "To`date`"
+msgstr ""
+
+#: core_tenantStatistics/index.js:16
+msgid "Usage statistics"
+msgstr ""
+
+#: core_tenantStatistics/tenantStatisticsColumns.service.js:147
+msgid "When a storage quota is set, total used storage over storage quota is displayed"
+msgstr ""

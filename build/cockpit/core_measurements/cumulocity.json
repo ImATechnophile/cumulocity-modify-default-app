@@ -1,0 +1,1 @@
+{"name":"Device measurements","ngModules":["c8y.core.measurements2"],"category":"Device","description":"Show measurement graphs for individual devices.","js":["main.js"],"css":["style.css"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"measurements","rootContextPath":"core/measurements"},"contextPath":"core_measurements"}

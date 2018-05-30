@@ -1,0 +1,1 @@
+{"name":"Key performance indicators","ngModules":["c8y.parts.kpi"],"category":"","description":"KPI","imports":["core/nvd3ChartDirectives","core/smartRules","core/dataPointExplorer","core/measurements"],"js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"kpi","rootContextPath":"core/kpi"},"contextPath":"core_kpi"}

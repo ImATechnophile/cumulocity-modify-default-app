@@ -1,0 +1,1 @@
+{"name":"Device permission utils","ngModules":["c8y.parts.aclManagement"],"category":"Device","description":"Set of extensions which allows to develop device permission management easier","js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"aclManagement","rootContextPath":"core/aclManagement"},"contextPath":"core_aclManagement"}

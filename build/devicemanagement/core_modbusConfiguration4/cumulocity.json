@@ -1,0 +1,1 @@
+{"name":"Modbus configuration","description":"Allow for configuring modbus device","category":"Device","ngModules":["c8y.modbusConfiguration4"],"js":["main.js"],"css":["style.css"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"modbusConfiguration4","rootContextPath":"core/modbusConfiguration4"},"contextPath":"core_modbusConfiguration4"}

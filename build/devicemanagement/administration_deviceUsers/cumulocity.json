@@ -1,0 +1,1 @@
+{"name":"Device users","ngModules":["c8y.parts.deviceUsers"],"category":"Device","description":"Manage devices device users.","js":["main.js"],"appsInclude":["administration"],"version":"9.3.0","compatibility":{"app":"administration","contextPath":"deviceUsers","rootContextPath":"administration/deviceUsers"},"contextPath":"administration_deviceUsers"}

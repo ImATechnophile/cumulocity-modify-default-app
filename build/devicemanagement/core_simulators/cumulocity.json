@@ -1,0 +1,1 @@
+{"name":"SmartREST simulators","ngModules":["c8y.simulators"],"category":"Simulators","description":"Create and edit simulators based on SmartREST messages","js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"simulators","rootContextPath":"core/simulators"},"contextPath":"core_simulators"}

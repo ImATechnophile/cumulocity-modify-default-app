@@ -1,0 +1,1 @@
+{"name":"Device details - control","ngModules":["c8y.deviceDetailControl"],"category":"Device","description":"Shows detailed control information for devices.","js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"deviceDetailControl","rootContextPath":"core/deviceDetailControl"},"contextPath":"core_deviceDetailControl"}

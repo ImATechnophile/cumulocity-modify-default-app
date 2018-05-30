@@ -1,0 +1,1 @@
+{"name":"Retention rules","ngModules":["c8y.parts.retentionRules"],"category":"Administration","description":"Manages retention rules.","js":["main.js"],"appsInclude":["administration"],"version":"9.3.0","compatibility":{"app":"administration","contextPath":"retentionRules","rootContextPath":"administration/retentionRules"},"contextPath":"administration_retentionRules"}

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_csvExporter/views/csvExporter.html:49
+msgid "Add Byte Order Mask (for Windows)"
+msgstr ""
+
+#: core_csvExporter/views/csvExporter.html:32
+msgid "Charset"
+msgstr ""
+
+#: core_csvExporter/views/csvExporter.html:57
+msgid "Close"
+msgstr ""
+
+#: core_csvExporter/views/csvExporter.html:21
+msgid "Decimal separator"
+msgstr ""
+
+#: core_csvExporter/views/csvExporter.html:72
+msgid "Download"
+msgstr ""
+
+#: core_csvExporter/csvExporter.controller.js:36
+msgid "Export as CSV"
+msgstr ""
+
+#: core_csvExporter/views/csvExporter.html:10
+msgid "Field separator"
+msgstr ""
+
+#: core_csvExporter/views/csvExporter.html:43
+msgid "Options"
+msgstr ""
+
+#: core_csvExporter/views/csvExporter.html:46
+msgid "Quote strings"
+msgstr ""
+
+#: core_csvExporter/csvExporter.service.js:15
+#: core_csvExporter/csvExporter.service.js:34
+msgid "comma - ,"
+msgstr ""
+
+#: core_csvExporter/csvExporter.service.js:30
+msgid "point - ."
+msgstr ""
+
+#: core_csvExporter/csvExporter.service.js:19
+msgid "semi-colon - ;"
+msgstr ""
+
+#: core_csvExporter/csvExporter.service.js:23
+msgid "tab - \\t"
+msgstr ""

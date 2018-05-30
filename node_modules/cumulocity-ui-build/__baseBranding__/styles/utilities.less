@@ -1,0 +1,199 @@
+//
+// Utility classes
+// --------------------------------------------------
+// Floats
+// -------------------------
+.clearfix {
+  .clearfix();
+}
+
+.center-block {
+  .center-block();
+}
+
+.pull-right {
+  float: right !important;
+}
+
+.pull-left {
+  float: left !important;
+}
+
+.top-right-controls {
+  .pull-right();
+  &>* {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+  }
+}
+
+// Toggling content
+// -------------------------
+// Note: Deprecated .hide in favor of .hidden or .sr-only (as appropriate) in v3.0.1
+.hide,
+[ng\:cloak],
+[ng-cloak],
+[data-ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak,
+.ng-hide {
+  display: none !important;
+}
+
+.show {
+  display: block !important;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.text-hide {
+  .text-hide();
+}
+
+// Hide from screenreaders and browsers
+//
+// Credit: HTML5 Boilerplate
+.hidden {
+  display: none !important;
+}
+
+// For Affix plugin
+// -------------------------
+.affix {
+  position: fixed;
+}
+
+// ng-click
+[ng-click] {
+  cursor: pointer;
+  &.no-cursor {
+    cursor: auto;
+  }
+} 
+
+
+// Margins
+// using !important to override other margins in element
+
+.top-m-xs {
+  margin-top: @margin-xs!important;
+}
+.top-m-sm, .top-m {
+  margin-top: @margin-sm!important;
+}
+.top-m-md {
+  margin-top: @margin-md!important;
+}
+.top-m-lg {
+  margin-top: @margin-lg!important;
+}
+.top-m-xl {
+  margin-top: @margin-xl!important;
+}
+.top-m-xxl {
+  margin-top: @margin-xxl!important;
+}
+
+.right-m-xs {
+  margin-right: @margin-xs!important;
+}
+.right-m-sm, .right-m {
+  margin-right: @margin-sm!important;
+}
+.right-m-md {
+  margin-right: @margin-md!important;
+}
+.right-m-lg {
+  margin-right: @margin-lg!important;
+}
+.right-m-xl {
+  margin-right: @margin-xl!important;
+}
+.right-m-xxl {
+  margin-right: @margin-xxl!important;
+}
+
+.bottom-m-xs {
+  margin-bottom: @margin-xs!important;
+}
+.bottom-m-sm, .bottom-m {
+  margin-bottom: @margin-sm!important;
+}
+.bottom-m-md {
+  margin-bottom: @margin-md!important;
+}
+.bottom-m-lg {
+  margin-bottom: @margin-lg!important;
+}
+.bottom-m-xl {
+  margin-bottom: @margin-xl!important;
+}
+.bottom-m-xxl {
+  margin-bottom: @margin-xxl!important;
+}
+
+.left-m-xs {
+  margin-left: @margin-xs!important;
+}
+.left-m-sm, .left-m {
+  margin-left: @margin-sm!important;
+}
+.left-m-md {
+  margin-left: @margin-md!important;
+}
+.left-m-lg {
+  margin-left: @margin-lg!important;
+}
+.left-m-xl {
+  margin-left: @margin-xl!important;
+}
+.left-m-xxl {
+  margin-left: @margin-xxl!important;
+}
+
+// shadows
+.shadow1 {
+  .boxShadowHelper(1);
+}
+
+.shadow2 {
+  .boxShadowHelper(2);
+}
+.shadow2-border {
+  .boxShadowHelper(2, border);
+}
+
+.shadow3, .shadow3-left {
+  .boxShadowHelper(3);
+}
+.shadow3-top {
+  .boxShadowHelper(3, top);
+}
+.shadow3-right {
+  .boxShadowHelper(3, right);
+}
+.shadow3-bottom {
+  .boxShadowHelper(3, bottom);
+}
+
+.shadow4 {
+  .boxShadowHelper(4);
+}
+
+.shadow5 {
+  .boxShadowHelper(5);
+}
+
+.shadow6 {
+  .boxShadowHelper(6);
+}
+.shadow6-right {
+  .boxShadowHelper(6, right);
+}
+.shadow7 {
+  .boxShadowHelper(7);
+}

@@ -1,0 +1,1 @@
+{"name":"Software list","ngModules":["c8y.parts.softwareList"],"category":"Device","description":"Listing of all available software in the repository.","js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"softwareList","rootContextPath":"core/softwareList"},"contextPath":"core_softwareList"}

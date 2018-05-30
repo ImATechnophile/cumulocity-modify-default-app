@@ -1,0 +1,27 @@
+<div>
+    <div class="card">
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th class="thstyle">NO</th>
+                    <th class="thstyle">NAME</th>
+                    <th class="thstyle">LOCATION</th>
+                    <th class="thstyle">STATUS</th>
+                    <th class="thstyle">DETAILS</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="CU in entire">
+                    <td class="rwstyle">{{CU.serialNo}}</td>
+                    <td class="rwstyle" ng-model="DeviceName">{{CU.name}}</td>
+                    <td class="rwstyle">{{CU.location}} </td>
+                    <td class="rwstyle"><a><i class="fa {{CU.status}} table-logo" aria-hidden="true"></i></a></td>
+                    <td class="rwstyle"><a ng-href="#/DevicesInfo/{{CU.deviceId}}" ng-click="deviceInfo()"><i class="fa fa-eye table-logo" aria-hidden="true"></i></a></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

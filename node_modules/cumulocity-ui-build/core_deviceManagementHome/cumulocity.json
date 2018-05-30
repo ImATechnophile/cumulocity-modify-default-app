@@ -1,0 +1,1 @@
+{"name":"Device management home","ngModules":["c8y.deviceManagement.home"],"category":"","description":"A home dashboard for the device management application.","js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"deviceManagementHome","rootContextPath":"core/deviceManagementHome"},"contextPath":"core_deviceManagementHome"}

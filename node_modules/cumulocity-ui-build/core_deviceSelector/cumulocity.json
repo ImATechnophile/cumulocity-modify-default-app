@@ -1,0 +1,1 @@
+{"name":"Device selector directive","ngModules":["c8y.deviceSelector"],"category":"Device","description":"Device selector directive","css":["style.css"],"js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"deviceSelector","rootContextPath":"core/deviceSelector"},"contextPath":"core_deviceSelector"}

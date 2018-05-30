@@ -1,0 +1,1 @@
+{"name":"Asset notes widget","ngModules":["c8y.assetNotes"],"category":"Device","description":"Adds dashboard widget to manage asset notes","js":["main.js"],"version":"9.3.0","compatibility":{"app":"core","contextPath":"asset-notes","rootContextPath":"core/asset-notes"},"contextPath":"core_asset-notes"}
