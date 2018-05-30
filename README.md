@@ -1,7 +1,7 @@
 # Cumulocity-ModifyDefaultApp
 We can able to change and modify the plugins of Cumulocities Default Core app. 
 ## Steps:
-To add new plugins to Cumulocity Core apps from UI interface you can do:
+### To add new plugins to Cumulocity Core apps from UI interface you can do:
 1.	Go to Administration application -> Own applications
 2.	Click on add new
 3.	Select clone existing application
@@ -12,6 +12,7 @@ To add new plugins to Cumulocity Core apps from UI interface you can do:
 8.	Upload your plugin here
 For cockpit and devicemanagement repeat those steps.
 Other way is more developers friendly (and allows easily install updated UI when released).
+```
 # fetch latest version of cumulocity ui
 c8y install
 
@@ -23,17 +24,20 @@ c8y build:app devicemanagement
 
 # retrieve manifest as is
 cat build/devicemanagement/cumulocity.json
+```
 that last file has everything needed to customize device management app. Extract it outside, this is your appliciation manifest to work with now, add your plugin to list of imports and build that app.
 After those steps are completed you can run:
+```
 c8y deploy:app devicemanagement
+```
 
-To remove  plugins from apps through UI interface you can do:
+### To remove  plugins from apps through UI interface you can do:
 1.	Go to Administration application -> Own applications
 2.	Select any one of the Cumulocity core application you need to remove some plugins.
 3.	Then select plugins. It shows the entire  list of plugins.
 4.	Finally you can remove plugins as your wish.
 
-To remove default plugins from Cumulocity Core apps through UI interface you can do:
+### To remove default plugins from Cumulocity Core apps through UI interface you can do:
 1.Go to Administration application -> Own applications
 2.Click on add new
 3.Select clone existing application
